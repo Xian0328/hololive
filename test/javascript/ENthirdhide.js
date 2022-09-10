@@ -1,0 +1,48 @@
+$(document).ready(function(){
+    $("#ENthird1").click(function(){
+      $("#ENthird1sp").fadeToggle(1000);
+    });
+    $("#ENthird1d").click(function(){
+      $("#ENthird1sp").fadeToggle(1000);
+    });
+});
+$(document).ready(function(){
+    $("#ENthird2").click(function(){
+      $("#ENthird2sp").fadeToggle(1000);
+    });
+    $("#ENthird2d").click(function(){
+      $("#ENthird2sp").fadeToggle(1000);
+    });
+});
+$(document).ready(function(){
+    $("#ENthird3").click(function(){
+      $("#ENthird3sp").fadeToggle(1000);
+    });
+    $("#ENthird3d").click(function(){
+      $("#ENthird3sp").fadeToggle(1000);
+    });
+});
+$(document).ready(function(){
+    $("#ENthird4").click(function(){
+      $("#ENthird4sp").fadeToggle(1000);
+    });
+    $("#ENthird4d").click(function(){
+      $("#ENthird4sp").fadeToggle(1000);
+    });
+});
+$(document).ready(function(){
+    $("#ENthird5").click(function(){
+      $("#ENthird5sp").fadeToggle(1000);
+    });
+    $("#ENthird5d").click(function(){
+      $("#ENthird5sp").fadeToggle(1000);
+    });
+});
+$(document).ready(function(){
+    $("#ENthird6").click(function(){
+      $("#ENthird6sp").fadeToggle(1000);
+    });
+    $("#ENthird6d").click(function(){
+      $("#ENthird6sp").fadeToggle(1000);
+    });
+});

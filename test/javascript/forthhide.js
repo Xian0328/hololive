@@ -1,0 +1,48 @@
+$(document).ready(function(){
+    $("#forth1").click(function(){
+      $("#forth1sp").fadeToggle(1000);
+    });
+    $("#forth1d").click(function(){
+      $("#forth1sp").fadeToggle(1000);
+    });
+});
+$(document).ready(function(){
+    $("#forth2").click(function(){
+      $("#forth2sp").fadeToggle(1000);
+    });
+    $("#forth2d").click(function(){
+      $("#forth2sp").fadeToggle(1000);
+    });
+});
+$(document).ready(function(){
+    $("#forth3").click(function(){
+      $("#forth3sp").fadeToggle(1000);
+    });
+    $("#forth3d").click(function(){
+      $("#forth3sp").fadeToggle(1000);
+    });
+});
+$(document).ready(function(){
+    $("#forth4").click(function(){
+      $("#forth4sp").fadeToggle(1000);
+    });
+    $("#forth4d").click(function(){
+      $("#forth4sp").fadeToggle(1000);
+    });
+});
+$(document).ready(function(){
+    $("#forth5").click(function(){
+      $("#forth5sp").fadeToggle(1000);
+    });
+    $("#forth5d").click(function(){
+      $("#forth5sp").fadeToggle(1000);
+    });
+});
+$(document).ready(function(){
+    $("#forth6").click(function(){
+      $("#forth6sp").fadeToggle(1000);
+    });
+    $("#forth6d").click(function(){
+      $("#forth6sp").fadeToggle(1000);
+    });
+});

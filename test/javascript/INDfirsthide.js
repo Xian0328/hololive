@@ -1,0 +1,32 @@
+$(document).ready(function(){
+    $("#INDfirst1").click(function(){
+      $("#INDfirst1sp").fadeToggle(1000);
+    });
+    $("#INDfirst1d").click(function(){
+      $("#INDfirst1sp").fadeToggle(1000);
+    });
+});
+$(document).ready(function(){
+    $("#INDfirst2").click(function(){
+      $("#INDfirst2sp").fadeToggle(1000);
+    });
+    $("#INDfirst2d").click(function(){
+      $("#INDfirst2sp").fadeToggle(1000);
+    });
+});
+$(document).ready(function(){
+    $("#INDfirst3").click(function(){
+      $("#INDfirst3sp").fadeToggle(1000);
+    });
+    $("#INDfirst3d").click(function(){
+      $("#INDfirst3sp").fadeToggle(1000);
+    });
+});
+$(document).ready(function(){
+    $("#INDfirst4").click(function(){
+      $("#INDfirst4sp").fadeToggle(1000);
+    });
+    $("#INDfirst4d").click(function(){
+      $("#INDfirst4sp").fadeToggle(1000);
+    });
+});

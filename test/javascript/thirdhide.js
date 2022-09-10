@@ -1,0 +1,48 @@
+$(document).ready(function(){
+    $("#third1").click(function(){
+      $("#third1sp").fadeToggle(1000);
+    });
+    $("#third1d").click(function(){
+      $("#third1sp").fadeToggle(1000);
+    });
+});
+$(document).ready(function(){
+    $("#third2").click(function(){
+      $("#third2sp").fadeToggle(1000);
+    });
+    $("#third2d").click(function(){
+      $("#third2sp").fadeToggle(1000);
+    });
+});
+$(document).ready(function(){
+    $("#third3").click(function(){
+      $("#third3sp").fadeToggle(1000);
+    });
+    $("#third3d").click(function(){
+      $("#third3sp").fadeToggle(1000);
+    });
+});
+$(document).ready(function(){
+    $("#third4").click(function(){
+      $("#third4sp").fadeToggle(1000);
+    });
+    $("#third4d").click(function(){
+      $("#third4sp").fadeToggle(1000);
+    });
+});
+$(document).ready(function(){
+    $("#third5").click(function(){
+      $("#third5sp").fadeToggle(1000);
+    });
+    $("#third5d").click(function(){
+      $("#third5sp").fadeToggle(1000);
+    });
+});
+$(document).ready(function(){
+    $("#third6").click(function(){
+      $("#third6sp").fadeToggle(1000);
+    });
+    $("#third6d").click(function(){
+      $("#third6sp").fadeToggle(1000);
+    });
+});
